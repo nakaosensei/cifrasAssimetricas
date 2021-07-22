@@ -11,7 +11,7 @@ Para cada conjunto ocorreram execuções para chaves de tamanho 1024, 2048 e 409
  para operações de criptografar para os três tamanhos de chave para os três conjuntos de elementos do experimento.
 
 <p>
-  <img src="images/criprografar.png" alt="Criptografar" style="width:100%">
+  <img src="images/criptografar.png" alt="Criptografar" style="width:100%">
   <p align="center">Figura 1 - Tempo de para criptografar em milisegundos para distintos tamanhos de chave</p>
 </p>
 <br>
