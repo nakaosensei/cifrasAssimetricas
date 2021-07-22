@@ -22,7 +22,8 @@ De mesma forma foi realizada a comparação entre os tempos para descriptografar
   <p align="center">Figura 2 -  Tempo de para descriptografar em milisegundos para distintos tamanhos de chave</p>
 </p>
 <br>
-
+A partir dos experimentos, é possível observar que quanto maior for o tamanho da chave, maior será o tempo necessário 
+para a realização das operações de criptografar e descriptografar.
 Os arquivos contendo as entradas para os experimentos podem ser encontrados no diretorio ./experimentos.
 
  
