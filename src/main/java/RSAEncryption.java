@@ -78,7 +78,7 @@ public class RSAEncryption {
 
     public static void main(String[] args) throws Exception {
         int tamanhoArray=100000;
-        int keySize=2048;
+        int keySize=4096;
         String[] values = generateValues(tamanhoArray);
         AsymmetricCipherKeyPair keyPair = GenerateKeys(keySize);
         String encryptedValues[] = new String[tamanhoArray];
