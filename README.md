@@ -8,7 +8,7 @@ Foram realizados experimentos contendo operações de cifrar e decifrar para con
 3:6:7:9:3. 
 
 Para cada conjunto ocorreram execuções para chaves de tamanho 1024, 2048 e 4096, registrando o tempo (milisegundos) utilizado em milisegundos. A Figura 1 ilustra os tempos de execução
- para operações de criptografar para os três tamanhos de chave para os três conjuntos de elementos do experimento.
+ para operações de criptografar para os três tamanhos de chave para os três conjuntos de elementos do experimento. Adicionalmente, para chaves de tamanho 1024 todos os elementos criptografados resultantes foram strings com 256 caracteres, para tamanho 2048 o tamanho das strings foi 512 caracteres, e para 4096 foi 1024 caracteres.
 
 <p>
   <img src="images/criptografar.png" alt="Criptografar" style="width:100%">
